@@ -4,7 +4,7 @@ project:
 
 website:
   description: "Linus' Blog"
-  site-url: "https://linuswashere.github.io/blog"
+  site-url: "https://linuswashere.github.io/realblog"
   title: "Linus' Blog"
   navbar:
     right:

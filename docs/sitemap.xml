@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://linuswashere.github.io/blog/index.html</loc>
+    <loc>https://linuswashere.github.io/realblog/index.html</loc>
     <lastmod>2026-02-24T17:46:46.404Z</lastmod>
   </url>
   <url>
-    <loc>https://linuswashere.github.io/blog/posts/welcome/index.html</loc>
+    <loc>https://linuswashere.github.io/realblog/posts/welcome/index.html</loc>
     <lastmod>2026-02-24T17:46:46.404Z</lastmod>
   </url>
   <url>
-    <loc>https://linuswashere.github.io/blog/posts/post-with-code/index.html</loc>
+    <loc>https://linuswashere.github.io/realblog/posts/post-with-code/index.html</loc>
     <lastmod>2026-02-24T17:46:46.408Z</lastmod>
   </url>
   <url>
-    <loc>https://linuswashere.github.io/blog/posts/arealpost/index.html</loc>
+    <loc>https://linuswashere.github.io/realblog/posts/arealpost/index.html</loc>
     <lastmod>2026-02-24T18:08:24.093Z</lastmod>
   </url>
   <url>
-    <loc>https://linuswashere.github.io/blog/about.html</loc>
+    <loc>https://linuswashere.github.io/realblog/about.html</loc>
     <lastmod>2026-02-24T17:55:54.870Z</lastmod>
   </url>
 </urlset>

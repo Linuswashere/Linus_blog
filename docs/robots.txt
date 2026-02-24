@@ -1,1 +1,1 @@
-Sitemap: https://linuswashere.github.io/blog/sitemap.xml
+Sitemap: https://linuswashere.github.io/realblog/sitemap.xml
