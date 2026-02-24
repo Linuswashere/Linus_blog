@@ -1,0 +1,12 @@
+---
+title: "My First Blog Post"
+author: "Linus"
+date: "2026-02-30"
+categories: [thoughts, meta]
+---
+
+## Why I'm Starting This Blog
+
+[Your content here]
+
+This is a space for less polished thinking than my academic work requires. I plan to use it for...

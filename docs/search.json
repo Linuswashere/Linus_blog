@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Linus’ Blog",
+    "section": "",
+    "text": "My First Blog Post\n\n\n\nthoughts\n\nmeta\n\n\n\n\n\n\n\n\n\nMar 30, 2026\n\n\nLinus\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 24, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 21, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/arealpost/index.html",
+    "href": "posts/arealpost/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "[Your content here]\nThis is a space for less polished thinking than my academic work requires. I plan to use it for…"
+  },
+  {
+    "objectID": "posts/arealpost/index.html#why-im-starting-this-blog",
+    "href": "posts/arealpost/index.html#why-im-starting-this-blog",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "[Your content here]\nThis is a space for less polished thinking than my academic work requires. I plan to use it for…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This will be a place for me to let the world know what I’ve been up to!"
+  }
+]
